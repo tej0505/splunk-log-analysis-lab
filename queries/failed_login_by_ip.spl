@@ -1,0 +1,1 @@
+index=main sourcetype=linux_secure "Failed password" | rex field=_raw "from (?<attacker_ip>[a-fA-F0-9:.]+)" | stats count by attacker_ip
