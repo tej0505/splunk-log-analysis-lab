@@ -52,13 +52,18 @@ splunk-log-analysis-lab/
 ## 📸 Screenshots
 
 ### 🔹 Dashboard Overview
-![Dashboard](screenshots/full_dashboard.png)
+
+![Screenshot_2025-06-26_14_10_59](https://github.com/user-attachments/assets/b44e7c5f-2c92-41a0-832b-3e48d5c8da5f)
 
 ### 🔹 Panel: Failed by IP
-![Failed by IP](screenshots/panel_failed_by_ip.png)
+
+![Screenshot_2025-06-26_14_18_11](https://github.com/user-attachments/assets/bf3ab55c-22f8-4601-803d-daf44569d87c)
+
 
 ### 🔹 Panel: Total Login Failures
-![Total Logins](screenshots/panel_total_failed.png)
+
+![Screenshot_2025-06-26_22_20_54](https://github.com/user-attachments/assets/4da0c7c4-0b1e-4fbf-b201-0f8a4cd0d062)
+
 
 ---
 
